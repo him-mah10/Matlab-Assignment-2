@@ -1,7 +1,7 @@
 <h1 align="center"> Matlab-Assignment-1</h1>
 
 #### Author - Himanshu Maheshwari
-This repository contains solutions to Matlab Assignment 1 for DSAA course at IIIT Hyderabad. Report contain details of algorithm implementation, results and observations and answers to the subjective questions (if any).
+This repository contains solutions to Matlab Assignment 2 for DSAA course at IIIT Hyderabad. Report contain details of algorithm implementation, results and observations and answers to the subjective questions (if any).
 
 #### Questions:
 1) This question comprises of 5 parts. Avoid using non-vectorized code as far as possible.
